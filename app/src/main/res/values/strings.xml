@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aplikasi Github</string>
+
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Find Username</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="count">1000</string>
+    <string name="tab_1">Follower</string>
+    <string name="tab_2">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite_menu">Favorit</string>
+    <string name="menu_2">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="tv_detail">Detail Favorite User</string>
+
+</resources>

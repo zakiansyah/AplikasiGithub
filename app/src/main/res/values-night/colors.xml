@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_500">#DF1258</color>
+    <color name="pink_700">#980034</color>
+    <color name="maroon_200">#BC0946</color>
+    <color name="maroon_700">#A12C53</color>
+    <color name="black">#FFFFFFFF</color>
+    <color name="brown">#000000</color>
+    <color name="red_logo">#B30E0E</color>
+    <color name="bg_cv">#E87D7D</color>
+    <color name="white">#000000</color>
+
+</resources>
